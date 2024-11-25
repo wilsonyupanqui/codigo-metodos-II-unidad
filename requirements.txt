@@ -1,0 +1,4 @@
+numpy
+matplotlib
+Axes3D
+pandas
